@@ -46,16 +46,11 @@ The project reflects my interest in digital design and verification, especially 
 
 ---
 
+## More projects
+
 <details>
-<summary><strong>More projects</strong></summary>
+<summary><strong>Click to expand the full project list</strong></summary>
 <br>
-
-### [alu16-systemverilog](https://github.com/AlexMihai1804/alu16-systemverilog)
-A 16-bit ALU written in SystemVerilog with arithmetic, logical, shift, rotate, and flag-control operations.
-It produces CPU-style status flags, supports extended arithmetic outputs, and uses a clocked design with enable and reset control.
-The repository also includes a grouped testbench for checking arithmetic paths, edge cases, and flag behavior across the instruction set.
-
-**Stack:** `SystemVerilog` `RTL Design` `Digital Design` `Verification`
 
 ### [ATC_MiThermometer-Arduino](https://github.com/AlexMihai1804/ATC_MiThermometer-Arduino)
 An Arduino library for retrieving temperature and humidity data over BLE from thermometers flashed with ATC custom firmware.
@@ -70,6 +65,13 @@ It combines backend logic, relational data modeling, and a usable interface for 
 It shows a broader software side of my work through backend logic, database design, and role-based web functionality.
 
 **Stack:** `Python` `Flask` `PostgreSQL` `SQL` `HTML/CSS/JavaScript`
+
+### [alu16-systemverilog](https://github.com/AlexMihai1804/alu16-systemverilog)
+A 16-bit ALU written in SystemVerilog with arithmetic, logical, shift, rotate, and flag-control operations.
+It produces CPU-style status flags, supports extended arithmetic outputs, and uses a clocked design with enable and reset control.
+The repository also includes a grouped testbench for checking arithmetic paths, edge cases, and flag behavior across the instruction set.
+
+**Stack:** `SystemVerilog` `RTL Design` `Digital Design` `Verification`
 
 ### [PythonProIect](https://github.com/AlexMihai1804/PythonProIect)
 A desktop application for managing shopping lists, purchase status, and budget-aware item tracking.
