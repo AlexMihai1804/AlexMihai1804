@@ -50,6 +50,13 @@ The project reflects my interest in digital design and verification, especially 
 <summary><strong>More projects</strong></summary>
 <br>
 
+### [alu16-systemverilog](https://github.com/AlexMihai1804/alu16-systemverilog)
+A 16-bit ALU written in SystemVerilog with arithmetic, logical, shift, rotate, and flag-control operations.
+It produces CPU-style status flags, supports extended arithmetic outputs, and uses a clocked design with enable and reset control.
+The repository also includes a grouped testbench for checking arithmetic paths, edge cases, and flag behavior across the instruction set.
+
+**Stack:** `SystemVerilog` `RTL Design` `Digital Design` `Verification`
+
 ### [ATC_MiThermometer-Arduino](https://github.com/AlexMihai1804/ATC_MiThermometer-Arduino)
 An Arduino library for retrieving temperature and humidity data over BLE from thermometers flashed with ATC custom firmware.
 It was built to simplify environmental sensing in embedded and IoT projects.
