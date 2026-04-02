@@ -23,6 +23,13 @@ It reflects my interest in building tools that are simple, useful, and close to 
 
 **Stack:** `C/C++` `ESP32` `Arduino` `LAN/UDP`
 
+### [romanian-asr-commonvoice](https://github.com/AlexMihai1804/romanian-asr-commonvoice)
+A Romanian automatic speech recognition project built around Common Voice and FastConformer-based training with iterative tuning.
+It tracks training runs, decoding strategies, and language-model-assisted evaluation to improve recognition quality on Romanian speech.
+The project reflects my interest in practical AI work, especially training and refining models on local hardware with measurable results.
+
+**Stack:** `Python` `Jupyter Notebook` `NVIDIA NeMo` `ASR` `Common Voice` `KenLM`
+
 ### [PixelSync](https://github.com/AlexMihai1804/PixelSync)
 A desktop application that captures on-screen content and syncs it with RGB lighting for ambient effects.
 It was built with multi-monitor setups, smooth color updates, and responsive performance in mind.
@@ -88,7 +95,7 @@ It is a smaller utility project, but it reflects my interest in building softwar
 
 - **AutoWatering** as a low-power irrigation system designed to reduce energy consumption and adapt watering logic to **temperature** and **precipitation**
 - **nRF52 + Zephyr development** for sensor integration, BLE configuration, and cleaner firmware structure
-- **AI exploration on local hardware** including training and fine-tuning models for practical applications
+- **romanian-asr-commonvoice** for training and refining a Romanian speech recognition pipeline on Common Voice with decoding and language-model evaluation
 
 ---
 
